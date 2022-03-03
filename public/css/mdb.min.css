@@ -5053,9 +5053,9 @@ fieldset:disabled .btn {
 .list-group-item-action:focus,
 .list-group-item-action:hover {
   z-index: 1;
-  color: #616161;
+  color: #1cc88a;
   text-decoration: none;
-  background-color: #f5f5f5;
+  background-color: #EAF6F2;
 }
 .list-group-item-action:active {
   color: #4f4f4f;
@@ -5068,7 +5068,7 @@ fieldset:disabled .btn {
   color: #262626;
   text-decoration: none;
   background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(19, 133, 92, 0.125);
 }
 .list-group-item:first-child {
   border-top-left-radius: inherit;
@@ -5087,8 +5087,8 @@ fieldset:disabled .btn {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #1266f1;
-  border-color: #1266f1;
+  background-color: #1cc88a;
+  border-color: #13855c;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;

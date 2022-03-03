@@ -14,4 +14,5 @@ class Home extends BaseController
         $data = [];
         return view('dashboard', $data);
     }
+
 }
